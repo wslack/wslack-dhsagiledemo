@@ -1,22 +1,19 @@
 ---
-title: Introduction
+title: 1. Introduction
 permalink: /intro/
 
 layout: page
 sidenav: primary
 subnav:
-  - text: Purpose and Scope
+  - text: 1.1 Purpose and Scope
     href: '#purpose-and-scope'
-  - text: Why Agile?
+  - text: 1.2 Why Agile?
     href: '#why-agile'
-  - text: Document Structure
+  - text: 1.3 Document Structure
     href: '#document-structure'
 ---
 
 ### Purpose and Scope
-
-![United States seal]({{site.baseurl}}/assets/img/us_seal.png "United States seal")
-
 The purpose of this Instruction Manual is to provide Department of Homeland Security (DHS)
 Program and Project Managers (PM) with guidance to support the implementation of Agile
 Information Technology (IT) development as outlined by DHS MD/Instruction 102-01-004 Agile
@@ -115,3 +112,28 @@ This Instruction Manual provides information on how to
 achieve success by implementing Agile techniques for software development at DHS.
 
 ### Document Structure
+This document is configured both as a basic guide and a reference. It is structured to provide a
+basic understanding of Agile up-front, with more advanced and detailed reference information
+organized in the appendices:
+
+* Section 2 provides a brief overview of Agile approaches, along with a brief discussion of the
+range of Agile methodologies and tools, team roles, and project success factors
+* Section 3 provides information on considerations and options for applying Agile within the
+context of the established DHS acquisition and systems engineering life cycle frameworks
+* Section 4 provides guidance and recommendations on developing Agile projects at DHS,
+along with lessons learned from experienced PMs within Agile projects
+* Section 5 outlines tips and practical lessons for implementing Agile development projects
+based on DHS experience with Agile to date.
+
+Readers who are more familiar/experienced in Agile may find the information beginning in Section
+3 of particular value, as the latter sections focus on how to implement Agile specifically within DHS.
+Appendices address Agile methodologies commonly used within DHS, tools that can be used to
+manage Agile projects, and how PMs can generate Agile metrics and reports to support their
+projects. A brief glossary of common Agile terms is provided in Appendix E. A checklist, providing
+a top-level set of actions to help PMs shape their Agile approach, is included as Appendix G.
+
+The Agile Development Instruction Manual is a living document. Please submit your feedback,
+recommendations, and related questions to the Office of Program Accountbility and Risk
+Management.
+
+![United States seal]({{site.baseurl}}/assets/img/us_seal.png "United States seal")
