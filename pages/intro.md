@@ -13,9 +13,6 @@ subnav:
     href: '#document-structure'
 ---
 
-
-# Introduction
-
 ### Purpose and Scope
 
 ![United States seal]({{site.baseurl}}/assets/img/us_seal.png "United States seal")
@@ -26,12 +23,7 @@ Information Technology (IT) development as outlined by DHS MD/Instruction 102-01
 Development and Delivery for Information Technology.1 Although Agile practices are expanding into
 other areas, this Instruction Manual focuses on software development. It helps PMs build upon
 best practices and experience from industry, federal government, and recent DHS implementations
-of Agile methodologies. This guidance is intended to enhance understanding of why Agile is the
-
-preferred approach to federal IT development, and to provide a starting point for increasing DHS-
-wide application of and expertise in Agile methodologies. This Instruction Manual is intended to
-
-help PMs and other key stakeholders understand how Agile IT development satisfies the
+of Agile methodologies. This guidance is intended to enhance understanding of why Agile is the preferred approach to federal IT development, and to provide a starting point for increasing DHS-wide application of and expertise in Agile methodologies. This Instruction Manual is intended to help PMs and other key stakeholders understand how Agile IT development satisfies the
 requirements of the Systems Engineering Life Cycle (SELC) (as established by DHS MD 102-01-103)
 to support individual IT project needs, while meeting the intent of the 25 Point Implementation Plan
 to Reform Federal Information Technology Management,2 Contracting Guidance to Support Modular
@@ -50,4 +42,76 @@ instead presents a practical overview of Agile development methodologies and too
 the reader directions for applying Agile techniques without dictating a specific “DHS way” for Agile.
 The state of the art for applying Agile to improve IT development and delivery continues to evolve,
 as do techniques and guidance for adapting Agile methodologies to the federal enterprise. This
-document provides an introduction to Agile concepts, techniques, and experiences intended to help
+document provides an introduction to Agile concepts, techniques, and experiences intended to help DHS PMs identify and craft program and project management options for applying Agile to achieve
+greater IT development success. It is based on current best practices, but will continue to evolve as
+practices change. Appendices in the back of this Instruction Manual , as well as references
+throughout, provide a more detailed and focused background of proven and emerging Agile
+practices. They include several resources for learning more about each.
+This Instruction Manual complements the DHS Systems Engineering Lifecycle (SELC) Instruction
+Guidebook (MD 102-01-103-01) by working within its high-level framework without superseding
+existing federal guidance. Accordingly, this Instruction Manual assists PMs in making informed
+decisions about applying Agile approaches and tools within the context of DHS acquisition
+management policies to improve planning efficiency, reduce overall risk, and enable rapid delivery
+of useful capability. The DHS SELC is the common systems engineering framework used to guide
+DHS programs and projects in the application of solid systems-engineering discipline. The SELC
+provides significant detail on systems engineering and its application and execution. Agile is one
+approach that encompasses the SELC’s flexible framework and can be leveraged as appropriate as
+part of a DHS acquisition approach. The SELC Tailoring Examples for Selected Types of DHS
+Acquisition Programs4 provides an example of how an Agile IT program could tailor its systems
+engineering approach (and how it differs from traditional practices) to more effectively encompass
+user requirements and produce a product in an Agile manner. Readers should refer to the DHS
+SELC Instruction Manual or one of its supplemental guides for any systems engineering topic not
+expressly covered in the DHS Agile Development Instruction Manual.
+
+### Why Agile?
+
+Agile development emphasizes inspecting and adapting, rather than following a plan. Teams deliver
+functionality incrementally, by releasing small system increments or updates frequently, rather
+than relying on a single, massive deployment. The Agile approach enables programs to deliver
+prioritized capabilities to users more quickly. This approach also provides more flexibility than
+many traditional methods, reducing risk by encouraging changing requirements, maximizing
+learning, and providing the ability to exploit technology advances in a timely fashion. Agile
+methodologies achieve this flexibility through iterative, incremental development practices that
+rely on self-organizing, cross-functional teams of developers, stakeholders, and users. The
+consistent interaction and partnering of individuals with different perspectives encourages
+development that is highly flexible and lower risk due to frequent planning, development, and
+delivery checkpoints. The Agile approach to software development incorporates an inherent
+cultural change in the way professionals develop and deliver software products by integrating
+users, testers, and developers and enabling them to directly address challenges together. Properly
+applied, Agile techniques help teams to develop software more efficiently and effectively, providing
+better solutions to their customers and stakeholders.
+
+Agile development offers the following benefits:
+
+* Requirements and products move at a rapid pace to
+realistically accommodate technical advances
+* Iterations and requirements are informed by
+discovery as challenges are resolved
+* Solutions are produced in a series of smaller
+increments to reduce risk and meet evolving needs
+* PMs select and apply the specific Agile methodologies
+that best suit the needs of the program, team,
+customer, and environment
+
+DHS is working on a number of initiatives to promote
+Agile/modular development in accordance with the
+referenced Office of Management and Budget (OMB)
+direction. These include an Agile instruction, this Instruction
+Manual , and the SELC Guidance.5 An Agile Center of
+Excellence and Integrated Product Team are leading these
+efforts.
+
+An Agile approach provides benefits to minimize risks and
+increases the probability of acceptable delivery compared to
+more traditional development processes. Agile development
+allows for increased flexibility across the life cycle of a
+project, though it notably does not allow PMs to begin
+projects without adequate initial project planning. It is
+important to acknowledge that Agile development projects
+require appropriate planning both up-front and throughout
+the project life cycle, so long as the planning does not
+significantly delay the start of the actual execution.
+This Instruction Manual provides information on how to
+achieve success by implementing Agile techniques for software development at DHS.
+
+### Document Structure
