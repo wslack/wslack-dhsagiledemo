@@ -97,7 +97,7 @@ DHS is working on a number of initiatives to promote
 Agile/modular development in accordance with the
 referenced Office of Management and Budget (OMB)
 direction. These include an Agile instruction, this Instruction
-Manual , and the SELC Guidance.5 An Agile Center of
+Manual, and the [SELC Guidance](SELC Tailoring Examples for Selected Types of DHS Acquisition Programs). An Agile Center of
 Excellence and Integrated Product Team are leading these
 efforts.
 
@@ -135,7 +135,7 @@ manage Agile projects, and how PMs can generate Agile metrics and reports to sup
 projects. A brief glossary of common Agile terms is provided in Appendix E. A checklist, providing
 a top-level set of actions to help PMs shape their Agile approach, is included as Appendix G.
 
-The Agile Development Instruction Manual is a living document. Please submit your feedback,
+The _Agile Development Instruction Manual_ is a living document. Please submit your feedback,
 recommendations, and related questions to the Office of Program Accountbility and Risk
 Management.
 
