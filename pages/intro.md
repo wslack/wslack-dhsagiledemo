@@ -46,8 +46,9 @@ greater IT development success. It is based on current best practices, but will 
 practices change. Appendices in the back of this Instruction Manual , as well as references
 throughout, provide a more detailed and focused background of proven and emerging Agile
 practices. They include several resources for learning more about each.
+
 This Instruction Manual complements the DHS Systems Engineering Lifecycle (SELC) Instruction
-Guidebook (MD 102-01-103-01) by working within its high-level framework without superseding
+Guidebook ([MD 102-01-103-01](https://www.dhs.gov/sites/default/files/publications/Systems%20Engineering%20Life%20Cycle.pdf)) by working within its high-level framework without superseding
 existing federal guidance. Accordingly, this Instruction Manual assists PMs in making informed
 decisions about applying Agile approaches and tools within the context of DHS acquisition
 management policies to improve planning efficiency, reduce overall risk, and enable rapid delivery
@@ -55,8 +56,8 @@ of useful capability. The DHS SELC is the common systems engineering framework u
 DHS programs and projects in the application of solid systems-engineering discipline. The SELC
 provides significant detail on systems engineering and its application and execution. Agile is one
 approach that encompasses the SELC’s flexible framework and can be leveraged as appropriate as
-part of a DHS acquisition approach. The SELC Tailoring Examples for Selected Types of DHS
-Acquisition Programs4 provides an example of how an Agile IT program could tailor its systems
+part of a DHS acquisition approach. The [SELC Tailoring Examples for Selected Types of DHS
+Acquisition Programs](SELC Tailoring Examples for Selected Types of DHS Acquisition Programs) provides an example of how an Agile IT program could tailor its systems
 engineering approach (and how it differs from traditional practices) to more effectively encompass
 user requirements and produce a product in an Agile manner. Readers should refer to the DHS
 SELC Instruction Manual or one of its supplemental guides for any systems engineering topic not
