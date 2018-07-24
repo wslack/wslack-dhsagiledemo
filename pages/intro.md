@@ -13,7 +13,7 @@ subnav:
     href: '#document-structure'
 ---
 # Introduction
-### Purpose and Scope
+### Purpose & Scope
 The purpose of this Instruction Manual is to provide Department of Homeland Security (DHS)
 Program and Project Managers (PM) with guidance to support the implementation of Agile
 Information Technology (IT) development as outlined by DHS MD/Instruction 102-01-004 Agile
